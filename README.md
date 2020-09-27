@@ -13,3 +13,7 @@ The solution to the puzzle is calculated through a recursive backtracking algori
   
 <strong>To Run: </strong> <br/>
   <i style="margin-left 4rem">java -cp classes SudokuMain</i>
+  
+<ul>
+  <li>Todo: Create user interface</li>
+</ul>
