@@ -14,6 +14,7 @@ The solution to the puzzle is calculated through a recursive backtracking algori
 <strong>To Run: </strong> <br/>
   <i style="margin-left 4rem">java -cp classes SudokuMain</i>
   
+<strong>Todo: </strong> <br/>
 <ul>
-  <li>Todo: Create user interface</li>
+  <li>Create GUI with Java Foundation Classes/Swing</li>
 </ul>
