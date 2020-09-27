@@ -12,9 +12,8 @@ The solution to the puzzle is calculated through a recursive backtracking algori
   
   
 <strong>To Run: </strong> <br/>
-  <i style="margin-left 4rem">java -cp classes SudokuMain</i> <br/>
-  
-<strong>Todo: </strong> 
+  <i style="margin-left 4rem">java -cp classes SudokuMain</i> <br/>  <br/>
+
 <ul>
-  <li>Create GUI with Java Foundation Classes/Swing</li>
+  <li><strong>Todo: </strong>Create GUI with Java Foundation Classes/Swing</li>
 </ul>
